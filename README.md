@@ -11,7 +11,7 @@
 Get notified when some jobs are stuck in your `failed_jobs` table for a number of days of your choice.  
 Notifications can be sent by mail, Slack and webhooks (chats often provide a webhook API).  
 
-:warning: **Package abandoned => please now use https://github.com/Okipa/laravel-stuck-jobs-notifier**
+:warning: **Package abandoned => please now use https://github.com/Okipa/laravel-stuck-jobs-notifier** :warning:
 
 ## Compatibility
 
